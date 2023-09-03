@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pyor/static/css/main.073c9b0a.css",
+    "main.js": "/pyor/static/js/main.14aacc81.js",
+    "static/js/787.28cb0dcd.chunk.js": "/pyor/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/pyor/index.html",
+    "main.073c9b0a.css.map": "/pyor/static/css/main.073c9b0a.css.map",
+    "main.14aacc81.js.map": "/pyor/static/js/main.14aacc81.js.map",
+    "787.28cb0dcd.chunk.js.map": "/pyor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14aacc81.js"
+  ]
+}
